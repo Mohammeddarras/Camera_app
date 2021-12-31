@@ -59,6 +59,9 @@ class _homePageState extends State<homePage> {
           ],
         ),
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: (){},
+      ),
     );
   }
 }
