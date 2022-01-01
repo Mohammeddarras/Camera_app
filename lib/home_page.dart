@@ -63,13 +63,10 @@ class _homePageState extends State<homePage> {
         onPressed: (){},
         child: Icon(Icons.near_me),
         //GitHub
-<<<<<<< HEAD
-=======
         //test
         //test1
         //test2
         //test3
->>>>>>> d5b4a98439e794f6fa37ed7f98e90b9564451192
       ),
     );
   }
